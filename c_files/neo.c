@@ -15,7 +15,7 @@
 #include <time.h>
 #include <signal.h>
 
-#define THREADS 4000
+#define THREADS 1000
 #define MAX_PAYLOAD 65507
 
 // ========== ALL PAYLOADS FROM BOTH LOGS ==========
